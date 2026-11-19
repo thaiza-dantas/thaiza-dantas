@@ -1,281 +1,200 @@
-<h1>Olá, meu nome é Thaiza Dantas! 👋</h1>
+<h1>Thaiza Dantas | Desenvolvedora em formação</h1>
 
-
-💻 Estudante de Análise e Desenvolvimento de Sistemas (UNINTER)  
-🐍 Desenvolvedora backend em formação, com foco em Python e APIs REST  
-🔐 Experiência prática com autenticação (JWT/OAuth2), bancos de dados e testes automatizados  
-🌱 Em constante evolução em desenvolvimento de software e inglês
-<br>🚀 Em busca da minha primeira oportunidade em desenvolvimento
+🔹 Estudante de Análise e Desenvolvimento de Sistemas (ADS)  
+🔹 Desenvolvimento backend com Python e construção de APIs REST.  
+🔹 Experiência prática em integração de sistemas, autenticação (JWT/OAuth2), bancos de dados relacionais e testes automatizados.  
+🔹 Conhecimentos em Inteligência Artificial Generativa, agentes LLM e automação de workflows com n8n.  
+🔹 Em busca de uma oportunidade para aplicar conhecimentos técnicos e contribuir com soluções de tecnologia.
 </p>
 
 <br>
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
 <table align="center">
 <tr>
+<td align="center" valign="top" width="33%">
 
-<td align="center" valign="top" width="25%">
+### Linguagens
 
-### 💻 Linguagens
-
-<a href="https://www.python.org/" target="_blank">
+<a href="https://www.python.org/">
 <img src="https://cdn.simpleicons.org/python" width="42" alt="Python">
 </a>
-<br><sub>Python</sub>
-
+<br>Python
 <br><br>
-
-<a href="https://www.oracle.com/java/" target="_blank">
-<img src="https://cdn.simpleicons.org/openjdk" width="42" alt="Java">
-</a>
-<br><sub>Java</sub>
-
-<br><br>
-
-<a href="https://www.w3schools.com/sql/" target="_blank">
+<a href="https://www.w3schools.com/sql/">
 <img src="https://img.icons8.com/color/48/sql.png" width="42" alt="SQL">
 </a>
-<br><sub>SQL</sub>
+<br>SQL
 
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="33%">
 
-### ⚙️ Backend
+### Backend
 
-<a href="https://fastapi.tiangolo.com/" target="_blank">
+<a href="https://fastapi.tiangolo.com/">
 <img src="https://cdn.simpleicons.org/fastapi" width="42" alt="FastAPI">
 </a>
-&nbsp;
-<a href="https://spring.io/projects/spring-boot" target="_blank">
-<img src="https://cdn.simpleicons.org/springboot" width="42" alt="Spring Boot">
-</a>
-<br>
-<sub>FastAPI · Spring Boot</sub>
-
+<br>FastAPI
 <br><br>
-
-<a href="https://www.sqlalchemy.org/" target="_blank">
+<a href="https://www.sqlalchemy.org/">
 <img src="https://cdn.simpleicons.org/sqlalchemy" width="42" alt="SQLAlchemy">
 </a>
-&nbsp;
-<a href="https://docs.pydantic.dev/" target="_blank">
-<img src="https://brandlogos.sgp1.digitaloceanspaces.com/svg/simple-icons/pydantic.svg" width="42" alt="Pydantic">
-</a>
-<br>
-<sub>SQLAlchemy · Pydantic</sub>
-
+<br>SQLAlchemy
 <br><br>
-
-<a href="https://alembic.sqlalchemy.org/" target="_blank">
+<a href="https://docs.pydantic.dev/">
+<img src="https://cdn.simpleicons.org/pydantic" width="42" alt="Pydantic">
+</a>
+<br>Pydantic
+<br><br>
+<a href="https://alembic.sqlalchemy.org/">
 <img src="https://www.svgrepo.com/show/404712/alembic.svg" width="42" alt="Alembic">
 </a>
-<br><sub>Alembic</sub>
+<br>Alembic
 
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="33%">
 
-### 🗄️ Bancos
+### Bancos de Dados
 
-<a href="https://www.postgresql.org/" target="_blank">
+<a href="https://www.postgresql.org/">
 <img src="https://cdn.simpleicons.org/postgresql" width="42" alt="PostgreSQL">
 </a>
-<br><sub>PostgreSQL</sub>
-
+<br>PostgreSQL
 <br><br>
-
-<a href="https://www.mysql.com/" target="_blank">
+<a href="https://www.mysql.com/">
 <img src="https://cdn.simpleicons.org/mysql" width="42" alt="MySQL">
 </a>
-<br><sub>MySQL</sub>
-
+<br>MySQL
 <br><br>
-
-<a href="https://www.sqlite.org/" target="_blank">
+<a href="https://www.sqlite.org/">
 <img src="https://cdn.simpleicons.org/sqlite" width="42" alt="SQLite">
 </a>
-<br><sub>SQLite</sub>
+<br>SQLite
+
+</td>
+</tr>
+
+<tr>
+<td align="center" valign="top" width="33%">
+
+### Inteligência Artificial e Automação
+
+<a href="https://n8n.io/">
+<img src="https://cdn.simpleicons.org/n8n" width="42" alt="n8n">
+</a>
+<br>n8n
+<br><br>
+<a href="https://ai.google.dev/">
+<img src="https://cdn.simpleicons.org/googlegemini" width="42" alt="Gemini">
+</a>
+<br>Gemini API
+<br><br>
+Agentes LLM
+<br><br>
+Integração de ferramentas e APIs
 
 </td>
 
-<td align="center" valign="top" width="25%">
+<td align="center" valign="top" width="33%">
 
-### 🌐 Web
+### APIs e Segurança
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://cdn.simpleicons.org/html5" width="42" alt="HTML5">
-</a>
-&nbsp;
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://cdn.simpleicons.org/css" width="42" alt="CSS3">
-</a>
-<br>
-<sub>HTML5 · CSS3</sub>
-
-<br><br>
-
-<a href="https://swagger.io/" target="_blank">
+<a href="https://swagger.io/">
 <img src="https://cdn.simpleicons.org/swagger" width="42" alt="Swagger">
 </a>
-<br><sub>Swagger / OpenAPI</sub>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center" valign="top">
-
-### 🔐 Segurança
-
-<a href="https://jwt.io/" target="_blank">
-<img src="https://cdn.simpleicons.org/jsonwebtokens" width="42" alt="JWT" title="JWT">
-</a>
-&nbsp;
-<a href="https://oauth.net/2/" target="_blank">
-<img src="https://logos.galtzo.com/assets/images/oauth/avatar-192px.svg" width="42" alt="OAuth 2.0" title="OAuth 2.0">
-</a>
-<br>
-<sub>JWT · OAuth2</sub>
-
-</td>
-
+<br>Swagger / OpenAPI
 <br><br>
-
-<td align="center" valign="top">
-
-### 🔌 API Testing
-
-<a href="https://www.postman.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/postman" width="42" alt="Postman">
+<a href="https://jwt.io/">
+<img src="https://cdn.simpleicons.org/jsonwebtokens" width="42" alt="JWT">
 </a>
-<br><sub>Postman</sub>
-
+<br>JWT
 <br><br>
-
-<a href="https://www.thunderclient.com/" target="_blank">
-<img src="https://www.thunderclient.com/favicon.ico" width="42" alt="Thunder Client">
-</a>
-<br><sub>Thunder Client</sub>
+OAuth 2.0
+<br><br>
+APIs REST
 
 </td>
 
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 
-### 🧪 Testes
+### Testes e Qualidade
 
-<a href="https://docs.pytest.org/" target="_blank">
+<a href="https://docs.pytest.org/">
 <img src="https://cdn.simpleicons.org/pytest" width="42" alt="Pytest">
 </a>
-<br><sub>Pytest</sub>
-
+<br>Pytest
 <br><br>
-
-🧪 <sub>Testes automatizados</sub>
+<a href="https://www.postman.com/">
+<img src="https://cdn.simpleicons.org/postman" width="42" alt="Postman">
+</a>
+<br>Postman
+<br><br>
+Testes automatizados
 
 </td>
-
-<td align="center" valign="top">
-
-### 🐳 DevOps
-
-<a href="https://www.docker.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/docker" width="42" alt="Docker">
-</a>
-<br><sub>Docker</sub>
-
-<br><br>
-
-<a href="https://github.com/features/actions" target="_blank">
-<img src="https://cdn.simpleicons.org/githubactions" width="42" alt="GitHub Actions">
-</a>
-<br><sub>GitHub Actions</sub>
-
-</td>
-
 </tr>
 
 <tr>
+<td align="center" valign="top" width="33%">
 
-<td align="center" valign="top">
+### DevOps e Cloud
 
-### 🔧 Versionamento
+<a href="https://www.docker.com/">
+<img src="https://cdn.simpleicons.org/docker" width="42" alt="Docker">
+</a>
+<br>Docker
+<br><br>
+<a href="https://github.com/features/actions">
+<img src="https://cdn.simpleicons.org/githubactions" width="42" alt="GitHub Actions">
+</a>
+<br>GitHub Actions
+<br><br>
 
-<a href="https://git-scm.com/" target="_blank">
+</td>
+
+<td align="center" valign="top" width="33%">
+
+### Versionamento
+
+<a href="https://git-scm.com/">
 <img src="https://cdn.simpleicons.org/git" width="42" alt="Git">
 </a>
-&nbsp;
-<a href="https://github.com/" target="_blank">
+<br>Git
+<br><br>
+<a href="https://github.com/">
 <img src="https://cdn.simpleicons.org/github" width="42" alt="GitHub">
 </a>
-<br>
-<sub>Git · GitHub</sub>
+<br>GitHub
 
 </td>
 
-<td align="center" valign="top">
+<td align="center" valign="top" width="33%">
 
-### 🖥️ IDEs
+### Ambiente de Desenvolvimento
 
-<a href="https://code.visualstudio.com/" target="_blank">
+<a href="https://code.visualstudio.com/">
 <img src="https://skillicons.dev/icons?i=vscode" width="42" alt="VS Code">
 </a>
-&nbsp;
-<a href="https://www.jetbrains.com/pycharm/" target="_blank">
+<br>VS Code
+<br><br>
+<a href="https://www.jetbrains.com/pycharm/">
 <img src="https://skillicons.dev/icons?i=pycharm" width="42" alt="PyCharm">
 </a>
-<br>
-<sub>VS Code · PyCharm</sub>
-
-<br><br>
-
-<a href="https://www.jetbrains.com/idea/" target="_blank">
-<img src="https://skillicons.dev/icons?i=idea" width="42" alt="IntelliJ IDEA">
-</a>
-<br><sub>IntelliJ IDEA</sub>
+<br>PyCharm
 
 </td>
-
-<td align="center" valign="top">
-
-### ☁️ Cloud
-
-<a href="https://aws.amazon.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/amazonwebservices.svg" width="50" alt="AWS">
-</a>
-<br><sub>AWS</sub>
-
-</td>
-
-<td align="center" valign="top">
-
-### 🔗 API & REST
-
-🌐 <sub>REST APIs</sub>
-
-<br><br>
-
-🔄 <sub>CRUD</sub>
-
-<br><br>
-
-📄 <sub>OpenAPI</sub>
-
-</td>
-
 </tr>
 </table>
 
-<br>
+---
 
-
-## 📫 Como me encontrar
-
+## 📫 Contato
 <p>
-  <a href="https://www.linkedin.com/in/thaiza-dantas-b312101b2" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-7851A9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
+<a href="https://www.linkedin.com/in/thaiza-dantas">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </p>
+
